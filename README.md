@@ -38,4 +38,5 @@ The code provides two functions for generating the images:
 
 ## Sample Output
 The code generates images with different background colors and fonts. Some sample images are provided in the `Quotes` folder.
+
 ![quote](https://github.com/nani-stark-3000/Quotes-Generator/blob/0766ecb889629623df1a5e0bd55418f8bb78f717/0.png)
